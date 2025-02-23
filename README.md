@@ -20,7 +20,7 @@ This analysis uses a curated dataset of 500 movies, randomly sampled from Kaggle
 - Open Jupyter Notebook and load model.ipynb.
 - Run all the cells in order.
 - Enter your input string when prompted.
-= The system will display 5 recommended movies based on your input.
+- The system will display 5 recommended movies based on your input.
 
 ## Results:
 <p align="center">
