@@ -13,12 +13,15 @@
 This analysis uses a curated dataset of 500 movies, randomly sampled from Kaggle's "Top Rated Movies" collection ([View Dataset](https://www.kaggle.com/datasets/yashkmd/top-rated-movies)). The dataset spans multiple decades and includes the top rated films. The sampled data can be found in `data.csv` within this repository.
 
 ## Setup:
-- The python version used is Python 3.10.1.
+- The python version used is Python 3.10.1
 - 
 - Packages needed are included in the requirements.txt file. Run  **pip install -r requirements.txt** to download packages
-- THe project was createed in a Jupyter Notebook. After installing dependencies, please run **jupyter notebook** and then open the notebook file.
+- The project was createed in a Jupyter Notebook. After installing dependencies, please run **jupyter notebook** in the terminal and then open the notebook file model.ipynb
 
 
 ## Running:
 
 ## Results:
+<p align="center">
+  <img src="sample_output.png" width="500">
+</p>
