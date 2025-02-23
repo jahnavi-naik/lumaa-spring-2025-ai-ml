@@ -23,5 +23,5 @@ This analysis uses a curated dataset of 500 movies, randomly sampled from Kaggle
 
 ## Results:
 <p align="center">
-  <img src="sample_output.png" width="500">
+  <img src="sample_output.png" width="1000">
 </p>
