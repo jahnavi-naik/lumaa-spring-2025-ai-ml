@@ -14,13 +14,14 @@ This analysis uses a curated dataset of 500 movies, randomly sampled from Kaggle
 
 ## Setup:
 - The python version used is Python 3.10.1
-- 
-- Packages needed are included in the requirements.txt file. Run  **pip install -r requirements.txt** to download packages
-- The project was createed in a Jupyter Notebook. After installing dependencies, please run **jupyter notebook** in the terminal and then open the notebook file model.ipynb
+- Install Dependencies: Run the following command to install required packages:
+  **pip install -r requirements.txt**
+- Jupyter Notebook: This project was created in a Jupyter Notebook. To open it, run the line below before opening the file:
+  **jupyter notebook**
 
 
 ## Running:
-
+To run the code, open the jupyter notebook and run all the cells. You will be prompted to enter your input string, and after enterign you will see ypur 5 recommended movies.
 ## Results:
 <p align="center">
   <img src="sample_output.png" width="1000">
